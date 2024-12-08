@@ -1,1 +1,1 @@
-# It contaion CSS files.
+# It contain CSS files.
